@@ -4,10 +4,13 @@ Um aplicativo de xadrez desenvolvido com o objetivo de proporcionar partidas ent
 
 ## 🚀 Funcionalidades (em desenvolvimento)
 
-- [ ] Interface gráfica para o tabuleiro de xadrez  
-- [ ] Movimentação legal de peças  
-- [ ] Suporte para partidas entre dois jogadores  
-- [ ] Validação de regras de xadrez  
+- [x] Interface gráfica para o tabuleiro de xadrez  
+- [x] Movimentação legal de peças  
+- [x] Suporte para partidas entre dois jogadores  
+- [x] Validação de regras de xadrez  
+
+![image](https://github.com/user-attachments/assets/b946edb4-c40b-4791-8db7-7669fe8686c1)
+
 
 ## 🛠️ Tecnologias utilizadas
 
